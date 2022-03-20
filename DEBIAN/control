@@ -1,0 +1,6 @@
+Package: auto-say
+Version: 1.0
+Maintainer: Red050911
+Architecture: all
+Installed-Size: 0.2
+Description: Allows you to set text and then repeat it later with a command. Use the autosay command to repeat the text, autosay-swap to change the text.
