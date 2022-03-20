@@ -1,0 +1,8 @@
+echo "Please enter what you want to swap the AutoSay text to:"
+read x
+touch ~/.autosay
+rm ~/.autosay
+echo $x > ~/.autosay
+echo "Successfully set AutoSay text to:"
+cat ~/.autosay
+
